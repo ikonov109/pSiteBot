@@ -1,15 +1,29 @@
-# pSiteBot — образовательный бот для тестирования сайтов
+# pSiteBot — Образовательный бот для тестирования сайтов 🤖
 
-**ВНИМАНИЕ:** Программа создана исключительно в образовательных целях!
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![PyInstaller](https://img.shields.io/badge/PyInstaller-Exe-orange)]()
 
-## Возможности
-- Многопоточные запросы к сайту
-- Поддержка прокси (HTTP/HTTPS/SOCKS)
-- Смена User-Agent
-- Графический интерфейс (tkinter)
-- Режим командной строки
+> ⚠️ **ВАЖНО**: Программа создана **исключительно в образовательных целях**!  
+> Не используйте для нарушения работы сайтов или DDoS-атак!
 
-## Установка
+## 📋 О проекте
+Программа для автоматической отправки HTTP-запросов с поддержкой:
+- Многопоточности
+- Прокси (HTTP/HTTPS/SOCKS)
+- Смены User-Agent
+- Задержек между запросами
+- Графического интерфейса (tkinter)
+
+## 🚀 Как использовать
+
+### Вариант 1: Готовый .exe
+1. Скачай `main.exe` из релизов
+2. Запусти и пользуйся!
+
+### Вариант 2: Из исходников
 ```bash
+git clone https://github.com/ikonov109/pSiteBot.git
+cd pSiteBot
 pip install -r requirements.txt
 python main.py
