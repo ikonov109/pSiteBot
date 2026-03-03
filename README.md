@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-Exe-orange)]()
+[![Downloads](https://img.shields.io/github/downloads/ikonov109/pSiteBot/total)](https://github.com/ikonov109/pSiteBot/releases)
+[![Stars](https://img.shields.io/github/stars/ikonov109/pSiteBot)](https://github.com/ikonov109/pSiteBot/stargazers)
 
 > ⚠️ **ВАЖНО**: Программа создана **исключительно в образовательных целях**!  
 > ⚠️ **ВАЖНО**: Автор **НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ** за использование программы!  
